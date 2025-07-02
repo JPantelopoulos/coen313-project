@@ -244,7 +244,4 @@ begin
    
    -- end process;
 
-end tb_arch;
-	  
-	  
-	  
+end tb_arch;  
