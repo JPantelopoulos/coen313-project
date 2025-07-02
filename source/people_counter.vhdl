@@ -1,5 +1,4 @@
 -- Name: John Pantelopoulos
--- ID: 40210720
 -- Date: June 19, 2025
 
 library ieee;
@@ -101,5 +100,4 @@ begin
    max_capacity <= '1' when (unsigned(r_reg) >= unsigned(threshold)) else
 	               '0';
 
-end sequential_arch;
-	  
+end sequential_arch;	  
